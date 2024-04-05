@@ -1,0 +1,28 @@
+body {
+    background-image:
+        linear-gradient(rgba(23, 24, 34, 0.600),
+            rgba(23, 24, 34, 0.600)),
+        url('im/t1.jpg');
+}
+
+.title-head {
+    color: rgb(255, 111, 0);
+}
+
+.desc-head {
+    color: rgb(255, 111, 0);
+}
+
+.del-head {
+    color: rgb(255, 111, 0);
+}
+
+hr {
+    border-top: 1px solid rgb(255, 111, 0);
+
+}
+
+#con1{
+    background-color: rgba(97, 97, 97, 0.145);
+}
+
